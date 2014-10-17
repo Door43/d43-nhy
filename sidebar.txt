@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nhy:home|Door43 (nhy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nhy|d43-nhy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nhy/archive/master.zip|d43-nhy.zip]]
+
+**Recent Changes**
+{{changes>ns = nhy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nhy|Ethnologue data]]
+
